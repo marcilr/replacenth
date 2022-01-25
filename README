@@ -1,0 +1,13 @@
+README
+Created Tue 25 Jan 2022 11:44:40 AM AKST
+Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+links.txt
+  replacenth related links
+
+replacenth.txt
+  python function to replace nth occurrence of string with another
+  ssh://git@github.com/marcilr/replacenth
